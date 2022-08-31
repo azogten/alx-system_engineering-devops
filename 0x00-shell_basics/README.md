@@ -1,1 +1,5 @@
-where am i
+directory contents in a long format
+
+
+
+
