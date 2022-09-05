@@ -1,1 +1,1 @@
-A script display the first 10 lines of /etc/passwd
+A script displaying the third lines of the fille iacta
