@@ -1,1 +1,1 @@
-A script displaying the content of the /etc/passwd file
+A  script that takes a list of words as input and prints only words that appear exactly once.
